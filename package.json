@@ -1,0 +1,21 @@
+{
+  "name": "angular-material-starter-app",
+  "version": "1.0.0",
+  "description": "minimal code required for angular material-node-mongo",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "nodemon server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PCSailor/angular-material-starter-app.git"
+  },
+  "author": "philip curtis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PCSailor/angular-material-starter-app/issues"
+  },
+  "homepage": "https://github.com/PCSailor/angular-material-starter-app#readme",
+  "dependencies": {
+  }
+}
